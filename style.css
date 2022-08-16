@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(255, 240, 254);
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.FName {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.LName {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Surname {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Father {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.CNIC {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Email {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.DOB {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Qualification {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Contact {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Gender {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Submit {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
